@@ -1,0 +1,1 @@
+This sub-directory is where all of the data is stored. right now it is currecntly being ignored bc of the large size of files.
